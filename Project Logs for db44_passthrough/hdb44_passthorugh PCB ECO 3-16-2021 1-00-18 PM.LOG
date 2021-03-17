@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetJ1_27 Pin=J2-27
+Removed Pin From Net: NetName=NetJ1_27 Pin=R27-1
+Added Pin To Net: NetName=NetJ2_27 Pin=J2-27
+Added Pin To Net: NetName=NetJ2_27 Pin=R27-1
+Added Net: Name=NetJ2_27
+Added Room: Name=hdb44_passthrough
